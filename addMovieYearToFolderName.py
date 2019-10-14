@@ -8,7 +8,7 @@ import re
 import tmdbsimple as tmdb
 
 MOVIE_FILE_LOCATION = '/mnt/video/Movies'
-TMDP_API_KEY = '2f0c5165ef7227281b19250cd9b434d0'
+TMDP_API_KEY = ''
 
 
 parser = argparse.ArgumentParser()
